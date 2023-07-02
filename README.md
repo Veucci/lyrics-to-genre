@@ -10,7 +10,7 @@ tags:
 ---
 
 # Lyrics Genre Classification Model
-## [Check HuggingFace Page!!](https://huggingface.co/Veucci/lyrics-to-genre-lite)
+## [Check HuggingFace Page to Try Model Online!](https://huggingface.co/Veucci/lyrics-to-genre-lite)
 ## Description
 
 This repository contains a machine learning model trained on a song lyrics dataset to predict the genre of a given song based on its lyrics. The model is capable of making predictions in three different genres: Pop, Rock, and Hip-Hop.
